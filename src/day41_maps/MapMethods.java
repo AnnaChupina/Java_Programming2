@@ -17,6 +17,8 @@ public class MapMethods {
         map.put("A06", "Tatiana");
         map.put("A07", "Tatiana");
 
+        // key can not be duplicated, values can
+
         System.out.println( map.size());
         System.out.println(map);
 
@@ -55,3 +57,6 @@ public class MapMethods {
 
     }
 }
+/*
+pair: id - name
+ */
